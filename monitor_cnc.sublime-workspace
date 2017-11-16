@@ -1,0 +1,2180 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cO",
+				"cOficina"
+			],
+			[
+				"cAutoriz",
+				"cAutoriz_Pri"
+			],
+			[
+				"autoriz",
+				"autoriz_pri"
+			],
+			[
+				"cAutori",
+				"cAutoriz_Pri"
+			],
+			[
+				"cSqlW",
+				"cSqlWhere2"
+			],
+			[
+				"autor",
+				"autoriz_pri"
+			],
+			[
+				"autoriz_s",
+				"autoriz_seg"
+			],
+			[
+				"cObs_",
+				"cObs_certificado"
+			],
+			[
+				"prod",
+				"produ"
+			],
+			[
+				"LOCALIZ",
+				"LOCALIZACOES"
+			],
+			[
+				"Bsuca",
+				"Busca_Padrao"
+			],
+			[
+				"Log",
+				"Log_Reparos\t(mae.prg)"
+			],
+			[
+				"maep",
+				"maeplog"
+			],
+			[
+				"mae",
+				"maeplog"
+			],
+			[
+				"Busca",
+				"Busca_Padrao\t(testpec.prg)"
+			],
+			[
+				"Grav",
+				"GravaControle"
+			],
+			[
+				"desenho",
+				"desenho"
+			],
+			[
+				"csql",
+				"cSql_\tDefinicao de QUERY Sql"
+			],
+			[
+				"cPecasD",
+				"cPecasDesF"
+			],
+			[
+				"cNomeA",
+				"cNomeArquivo"
+			],
+			[
+				"Gera",
+				"GeraPdf\t(cprod.prg)"
+			],
+			[
+				"cArq",
+				"cArquivo_Desenho"
+			],
+			[
+				"abre",
+				"Abre_Arquivos"
+			],
+			[
+				"Cla",
+				"Classificacao_Fiscal_Simples\t(pecas.prg)"
+			],
+			[
+				"lNF",
+				"lNfeIndustrializacao_NTI"
+			],
+			[
+				"dbsetorer",
+				"dbsetorder(2\t(pecas.prg)"
+			],
+			[
+				"nValorTota",
+				"nValorTotalInsumos"
+			],
+			[
+				"uni",
+				"unit\t(pecas.prg)"
+			],
+			[
+				"Classi",
+				"Classificacao_Fiscal_Simples"
+			],
+			[
+				"Get",
+				"GetList\t(geracata.prg)"
+			],
+			[
+				"dbset",
+				"dbsetorder(2"
+			],
+			[
+				"DESA",
+				"DESATIVADA\t(pecas.prg)"
+			],
+			[
+				"promocao",
+				"promocao_catalogo"
+			],
+			[
+				"Pesq",
+				"PesqPadrao"
+			],
+			[
+				"Manutenca",
+				"Manutencao_Pecas_Lancamentos_Promocoes\t(conpeca.prg)"
+			],
+			[
+				"lGera",
+				"lGerarOutraNota"
+			],
+			[
+				"lGEra",
+				"lGerarOutraNota"
+			],
+			[
+				"nConta",
+				"nContadorItens"
+			],
+			[
+				"peso",
+				"peso_bruto"
+			],
+			[
+				"ntotal",
+				"nTotalPeso"
+			],
+			[
+				"Peso_Liq",
+				"peso_liq"
+			],
+			[
+				"Componen",
+				"Componentes_Reparo\t(testapecageral.prg)"
+			],
+			[
+				"aPais",
+				"aPaisMontados"
+			],
+			[
+				"promoca",
+				"promocao_catalogo"
+			],
+			[
+				"ende",
+				"endereco\t(testapecageral.prg)"
+			],
+			[
+				"cOutras",
+				"cOutrasLocalizacoes"
+			],
+			[
+				"Local",
+				"Localizacoes_Secundarias"
+			],
+			[
+				"nQtdCompo",
+				"nQtdComponente"
+			],
+			[
+				"aCop",
+				"aComponentes"
+			],
+			[
+				"cNome",
+				"cNomeArq"
+			],
+			[
+				"COmmit",
+				"CommitSql\t(enota1.prg)"
+			],
+			[
+				"Convert",
+				"Converte_Unidades_Tributarias\t(nfe.prg)"
+			],
+			[
+				"pega",
+				"pega_nome_\tpega_nome_"
+			],
+			[
+				"nCont",
+				"nContaErro"
+			],
+			[
+				"cPub_b",
+				"cPub_Banco\t(mont.prg)"
+			],
+			[
+				"oSql",
+				"oSql:Exec(@cSql,,.t.,@aRet\t(mont.prg)"
+			],
+			[
+				"cPub_B",
+				"cPub_Banco\t(mont.prg)"
+			],
+			[
+				"Decr",
+				"DECRIPTO\t(apresent.prg)"
+			],
+			[
+				"custo_",
+				"custo_valor"
+			],
+			[
+				"documen",
+				"documentos_alterados"
+			],
+			[
+				"Sacpm_",
+				"Sacpm_Documentos_Alterados"
+			],
+			[
+				"dData",
+				"dData_Producao"
+			],
+			[
+				"lImp",
+				"lImpCodigoOriginal"
+			],
+			[
+				"nTipo",
+				"nTipoCaixaPapelao"
+			],
+			[
+				"lSai",
+				"lSairForcado"
+			],
+			[
+				"env",
+				"enviado"
+			],
+			[
+				"lEm",
+				"lEmBranco"
+			],
+			[
+				"se",
+				"senhas"
+			],
+			[
+				"clei",
+				"clienteserasa"
+			],
+			[
+				"cliente",
+				"clienteserasa"
+			],
+			[
+				"Pega",
+				"Pega_Campo_\ttraz valor de campo especifico"
+			],
+			[
+				"pesq",
+				"pesqpadrao_\tcriar pesque padrao com parametros 'abertos'"
+			],
+			[
+				"lSar",
+				"lSairForcado"
+			],
+			[
+				"Browe",
+				"BrowsePadrao_\tCria estrutura completa para Browse Padrao"
+			],
+			[
+				"Abr",
+				"AbreArquivos_\tAbertura de Arquivos"
+			],
+			[
+				"obs",
+				"observacao"
+			],
+			[
+				"Obserca",
+				"OBSERVACOES"
+			],
+			[
+				"ABAND",
+				"ABANDONAR\t(mvendanew.prg)"
+			],
+			[
+				"nCol",
+				"nColunaDaMarca\t(pesqpadrao.prg)"
+			],
+			[
+				"nCOl",
+				"nColRetorno"
+			],
+			[
+				"lMar",
+				"lMarcarMultiplos"
+			],
+			[
+				"nColu",
+				"nColunaDaMarca"
+			],
+			[
+				"aPe",
+				"aPedidos"
+			],
+			[
+				"lan",
+				"lancamento\t(geracata.prg)"
+			],
+			[
+				"lSomenteA",
+				"lSomenteAtualizarTabelaPecas"
+			],
+			[
+				"stock",
+				"stocksaldo"
+			],
+			[
+				"Custo",
+				"Custo_Liquido_Sem_Impostos"
+			],
+			[
+				"Clien",
+				"ClienteSerasa"
+			],
+			[
+				"xTe",
+				"xTelaF8"
+			],
+			[
+				"dPr",
+				"dPrimeira_Entrada"
+			],
+			[
+				"CAtIdeia",
+				"CatIdeiaProd"
+			],
+			[
+				"lLca",
+				"lLancamento\t(conpeca.prg)"
+			],
+			[
+				"catidei",
+				"catideiafreio"
+			],
+			[
+				"nPorc",
+				"nPorcCorte"
+			],
+			[
+				"dif",
+				"difal"
+			],
+			[
+				"Tra",
+				"Tranlimpo"
+			],
+			[
+				"nBrP",
+				"nBrPai"
+			],
+			[
+				"xTela_F3",
+				"xTela_F3_Dentro"
+			],
+			[
+				"Save",
+				"Savescreen\t(commp.prg)"
+			],
+			[
+				"mens",
+				"mens(\"PRESSIONE\t(consite.prg)"
+			],
+			[
+				"diam",
+				"diam_int"
+			],
+			[
+				"NFC",
+				"NFCipec"
+			],
+			[
+				"Calcula",
+				"Calcula_Custo_Producao_NTI"
+			],
+			[
+				"cFiltro",
+				"cFiltroTPeca"
+			],
+			[
+				"Edita_Me",
+				"Edita_Memo_Teclas"
+			],
+			[
+				"cT",
+				"cTitulo"
+			],
+			[
+				"browse",
+				"BrowsePadrao"
+			],
+			[
+				"brow",
+				"browse"
+			],
+			[
+				"as",
+				"aScan\t(produ.prg)"
+			],
+			[
+				"cS",
+				"cSql_\tDefinicao de QUERY Sql"
+			],
+			[
+				"Verifica_",
+				"Verifica_Desenhos_Para_Autorizar"
+			],
+			[
+				"date",
+				"date"
+			],
+			[
+				"dese",
+				"desenho_data"
+			],
+			[
+				"pecas",
+				"pecasdes"
+			],
+			[
+				"desenh",
+				"desenho_data"
+			],
+			[
+				"desneho",
+				"desenho_data"
+			],
+			[
+				"Pecas",
+				"PecasDes"
+			],
+			[
+				"alte",
+				"alteracoes"
+			],
+			[
+				"PecasDes",
+				"PecasDesf"
+			],
+			[
+				"cAutoriz_",
+				"cAutoriz_usu"
+			],
+			[
+				"cAuto",
+				"cAutoriz_simnao"
+			],
+			[
+				"auto",
+				"autoriz_usu"
+			],
+			[
+				"Mens",
+				"Mens1\tMens1"
+			],
+			[
+				"cNomea",
+				"cNomeArquivo"
+			],
+			[
+				"Grava",
+				"Gravar_Arquivo_PDF"
+			],
+			[
+				"nH",
+				"nHandle"
+			],
+			[
+				"cDes",
+				"cDescricao"
+			],
+			[
+				"cPri",
+				"cPrincipal"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "core.py",
+			"settings":
+			{
+				"buffer_size": 13848,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 98.0,
+		"last_filter": "1",
+		"selected_items":
+		[
+			[
+				"1",
+				"Text Pastry: From 1 To X"
+			],
+			[
+				"snip",
+				"Snippet: definicao de variaveis para QUERY Sql"
+			],
+			[
+				"alig",
+				"AlignTab: Live Preview Mode"
+			],
+			[
+				"lo",
+				"Convert Case: Lower Case"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"date",
+				"InsertDate: Default"
+			],
+			[
+				"lowe",
+				"Convert Case: Lower Case"
+			],
+			[
+				"up",
+				"Convert Case: Upper Case"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"svn",
+				"SVN: (File) Log"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"diff",
+				"SVN: Diff, Remote"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Discover Packages"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"packe",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"symb",
+				"CTags: Show Symbols (all)"
+			],
+			[
+				"ctags",
+				"CTags: Rebuild Tags"
+			],
+			[
+				"upda",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"DATE",
+				"InsertDate: Default"
+			],
+			[
+				"sql",
+				"Snippet: definicao de variaveis para QUERY Sql"
+			],
+			[
+				"xml",
+				"Indent XML"
+			],
+			[
+				"xm",
+				"Indent XML"
+			],
+			[
+				"low",
+				"Convert Case: Lower Case"
+			],
+			[
+				"mark",
+				"Bookmarks: Select Next"
+			],
+			[
+				"mar",
+				"Bookmarks: Toggle"
+			],
+			[
+				"sni",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"Snippet: ",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"data",
+				"InsertDate: Default"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"al",
+				"AlignTab: Live Preview Mode"
+			],
+			[
+				"sn",
+				"Snippet: criar pesque padrao com parametros 'abertos'"
+			],
+			[
+				"html",
+				"HTMLBeautify"
+			],
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"ali",
+				"AlignTab: Live Preview Mode"
+			],
+			[
+				"0",
+				"Text Pastry: From 0 To X"
+			],
+			[
+				"dat",
+				"InsertDate: Default"
+			],
+			[
+				"",
+				"AlignTab: Live Preview Mode"
+			],
+			[
+				"LOWE",
+				"Convert Case: Lower Case"
+			],
+			[
+				"1 ",
+				"Text Pastry: From 1 To X"
+			],
+			[
+				"ranking",
+				"Preferences: Alignment Key Bindings – Default"
+			],
+			[
+				"1 t",
+				"Text Pastry: From 1 To X"
+			],
+			[
+				"a",
+				"AlignTab: Live Preview Mode"
+			],
+			[
+				"align",
+				"AlignTab: Table Mode"
+			],
+			[
+				"bro",
+				"Bookmarks: Toggle"
+			],
+			[
+				"tog",
+				"Bookmarks: Toggle"
+			],
+			[
+				"wr",
+				"Word Wrap: Toggle"
+			],
+			[
+				"LOW",
+				"Convert Case: Lower Case"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"commen",
+				"Toggle Block Comment"
+			],
+			[
+				"UPP",
+				"Convert Case: Upper Case"
+			],
+			[
+				"impprod",
+				"Snippet: Cria estrutura completa para Browse Padrao"
+			],
+			[
+				"LOWER",
+				"Convert Case: Lower Case"
+			],
+			[
+				"pesq",
+				"Snippet: criar pesque padrao com parametros 'abertos'"
+			],
+			[
+				"SORT",
+				"Sort Lines"
+			],
+			[
+				"boo",
+				"Bookmarks: Toggle"
+			],
+			[
+				"sor",
+				"Sort Lines"
+			],
+			[
+				"xmls",
+				"Set Syntax: HTML (ASP)"
+			],
+			[
+				"u",
+				"Convert Case: Upper Case"
+			],
+			[
+				"dsate",
+				"InsertDate: Select Timezone"
+			],
+			[
+				"book",
+				"Bookmarks: Toggle"
+			],
+			[
+				"comm",
+				"SVN: (Folder) Commit"
+			],
+			[
+				"from",
+				"Text Pastry: From 1 To X"
+			],
+			[
+				"textpast",
+				"Text Pastry: Reduce selection"
+			],
+			[
+				"fro",
+				"Text Pastry: From 0 To X"
+			],
+			[
+				"curs",
+				"CursorRuler: Wrap Lines"
+			],
+			[
+				"snipp",
+				"Snippet: Definicao de QUERY Sql"
+			],
+			[
+				"rang",
+				"Text Pastry: Range"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"edit",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"snippet",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"make",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"upgra",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"log",
+				"Changelog"
+			],
+			[
+				"snni",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"FROM",
+				"Text Pastry: From 1 To X"
+			],
+			[
+				"paste",
+				"Text Pastry: Paste"
+			],
+			[
+				"dif",
+				"SVN: Diff, Remote"
+			],
+			[
+				"chan",
+				"Changelog"
+			],
+			[
+				"autoc",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"fuz",
+				"AutocompletionFuzzy: Complete word backward"
+			],
+			[
+				"fuzzi",
+				"AutocompletionFuzzy: Complete line backward"
+			],
+			[
+				"svn co",
+				"SVN: Commit…"
+			],
+			[
+				"UP",
+				"Convert Case: Upper Case"
+			],
+			[
+				"make sn",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"edit snipp",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"browse",
+				"Snippet: Cria estrutura completa para Browse Padrao"
+			],
+			[
+				"snipp edit",
+				"Snippet: criar menu no padrao correto (mont.prg)"
+			],
+			[
+				"SNI",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"comma",
+				"ShellCommand"
+			],
+			[
+				"alin",
+				"AlignTab: Live Preview Mode"
+			],
+			[
+				"aling",
+				"AlignTab: Live Preview Mode"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Package Control: Disable Package"
+			],
+			[
+				"synta",
+				"Set Syntax: Harbour"
+			],
+			[
+				"depen",
+				"Package Control: Install Local Dependency"
+			],
+			[
+				"console",
+				"Set Syntax: R Console"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"below",
+				"Origami: Create Pane with File Below"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"frm",
+				"Text Pastry: From 1 To X"
+			],
+			[
+				"pastr",
+				"Text Pastry: From 1 To X"
+			],
+			[
+				"ran",
+				"Text Pastry: Range"
+			],
+			[
+				"bookmar",
+				"Bookmarks: Toggle"
+			],
+			[
+				"clone",
+				"Origami: Clone File to Pane on the Right"
+			],
+			[
+				"clo",
+				"Origami: Clone File to Pane on the Right"
+			],
+			[
+				"INSTALL",
+				"Package Control: Install Package"
+			],
+			[
+				"LO",
+				"Convert Case: Lower Case"
+			],
+			[
+				"past",
+				"Text Pastry: From 1 To X"
+			],
+			[
+				"range",
+				"Text Pastry: Range"
+			],
+			[
+				"clon",
+				"Origami: Clone File to Pane on the Right"
+			],
+			[
+				"text",
+				"Text Pastry: From 1 To X"
+			],
+			[
+				"tex",
+				"Text Pastry: Range"
+			],
+			[
+				"dta",
+				"InsertDate: Default"
+			],
+			[
+				"Go to",
+				"Go To Definition"
+			],
+			[
+				"goto",
+				"Go To Definition"
+			],
+			[
+				"defi",
+				"Go To Definition"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"crea",
+				"Origami: Create Pane on the Right"
+			]
+		],
+		"width": 603.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"quit",
+			"grep",
+			"ls",
+			"?",
+			"help",
+			"?",
+			"show_overlay",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			"quit",
+			"q",
+			"as //1",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/elton/works/libgeral/pesqpadrao.prg",
+		"/home/esbaptista/works/cipec/testpec.prg",
+		"/home/esbaptista/works/cipec/testapecageral.prg",
+		"/home/esbaptista/works/cipec/cheque.prg",
+		"/home/esbaptista/works/cipec/cliente.prg",
+		"/home/esbaptista/works/cipec/digicipec.prg",
+		"/home/esbaptista/works/cipec/desenho.prg",
+		"/home/esbaptista/works/cipec/produ.prg",
+		"/home/esbaptista/works/cipec/apresent.prg",
+		"/home/esbaptista/works/cipec/vemba.prg",
+		"/home/esbaptista/works/cipec/consite.prg",
+		"/home/esbaptista/works/cipec/produg.prg",
+		"/home/esbaptista/works/cipec/conpeca.prg",
+		"/home/esbaptista/works/cipec/mont.prg",
+		"/home/esbaptista/works/cipec/gprolan.prg",
+		"/home/esbaptista/works/cipec/outest.prg",
+		"/home/esbaptista/works/cipec/cprod.prg",
+		"/home/esbaptista/works/cipec/pecas.prg",
+		"/home/esbaptista/works/cipec/cota_2.prg",
+		"/home/elton/works/libgeral/gerapdf.prg",
+		"/home/elton/works/libboleto/oboleto.prg",
+		"/home/esbaptista/works/cipec/compra.prg",
+		"/home/esbaptista/works/cipec/nota1.prg",
+		"/home/esbaptista/works/cipec/mae.prg",
+		"/home/esbaptista/works/cipec/mae1.prg",
+		"/home/esbaptista/works/cipec/estocipec.xbp",
+		"/home/elton/works/libgeral/funlib.prg",
+		"/home/esbaptista/works/cipec/classif.prg",
+		"/home/esbaptista/works/cipec/ccfor.prg",
+		"/home/esbaptista/works/cipec/acoes.prg",
+		"/home/esbaptista/works/cipec/baicom.prg",
+		"/home/esbaptista/works/cipec/compra2.prg",
+		"/home/esbaptista/works/cipec/nfe.prg",
+		"/home/esbaptista/works/cipec/gara.prg",
+		"/home/esbaptista/works/cipec/compra1.prg",
+		"/home/esbaptista/works/cipec/outras.prg",
+		"/home/esbaptista/works/cipec/impblo.prg",
+		"/home/esbaptista/works/cipec/pesqforne.prg",
+		"/home/elton/works/libboleto/gera_boleto.prg",
+		"/home/esbaptista/works/cipec/conpeca1.prg",
+		"/home/elton/works/libgeral/mensa1.prg",
+		"/home/elton/works/libgeral/funemail.prg",
+		"/home/elton/works/libgeral/sendmail.prg",
+		"/home/esbaptista/works/cipec/pesq.prg",
+		"/home/esbaptista/works/cipec/custo.prg",
+		"/home/esbaptista/works/cipec/enota1.prg",
+		"/home/esbaptista/works/cipec/pesquisa.prg",
+		"/home/esbaptista/works/cipec/acerta_custo.prg",
+		"/home/esbaptista/works/cipec/est_8.prg",
+		"/home/esbaptista/works/cipec/requi.prg",
+		"/home/esbaptista/works/cipec/ferramentaria.prg",
+		"/home/esbaptista/works/cipec/clafis.prg",
+		"/home/esbaptista/works/cipec/canota.prg",
+		"/home/esbaptista/works/cipec/cota3.prg",
+		"/home/esbaptista/works/cipec/emba.prg",
+		"/home/esbaptista/works/cipec/acbr_nti/notas/nfe-000009.txt",
+		"/home/esbaptista/works/cipec/geracata.prg",
+		"/home/elton/works/cipec/testapecageral.prg",
+		"/home/elton/works/cipec/classif.prg",
+		"/home/elton/works/cipec/cipec.sublime-project",
+		"/home/elton/works/cipec/geraprolan.prg",
+		"/home/elton/works/cipec/consite.prg",
+		"/home/elton/works/cipec/pecas.prg",
+		"/home/elton/works/cipec/gara.prg",
+		"/home/elton/works/cipec/cota2.prg",
+		"/home/elton/works/cipec/cota.prg",
+		"/home/elton/works/cipec/mont.prg",
+		"/home/elton/works/libgeral/isopen.prg",
+		"/home/esbaptista/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+		"/home/elton/works/cipec/nfe.prg",
+		"/home/elton/works/cipec/geracata.prg",
+		"/home/elton/works/cipec/conpeca.prg",
+		"/home/elton/works/cipec/digicipec.prg",
+		"/home/elton/works/cipec/enota1.prg",
+		"/home/elton/works/cipec/cprod.prg",
+		"/home/elton/works/cipec/vemba.prg",
+		"/home/elton/works/cipec/acompanhamento_representante.prg",
+		"/home/elton/works/cipec/apag_f.prg",
+		"/home/elton/works/cipec/pesq.prg",
+		"/home/elton/works/cipec/testpec.prg",
+		"/home/elton/works/cipec/iso.prg",
+		"/home/elton/works/cipec/revisa.prg",
+		"/home/elton/works/cipec/icms.prg",
+		"/home/elton/works/cipec/cliente.prg",
+		"/home/elton/works/cipec/cota_3.prg",
+		"/home/elton/works/cipec/nota1.prg",
+		"/home/elton/works/cipec/valor_custo.prg",
+		"/home/elton/works/cipec/emba.prg",
+		"/home/elton/works/cipec/cli_6.prg",
+		"/home/elton/works/cipec/conpeca1.prg",
+		"/home/elton/works/cipec/dsq.prg",
+		"/home/elton/works/cipec/cota_21.prg",
+		"/home/elton/works/libgeral/psql.prg",
+		"/home/elton/works/cipec/acesso.prg",
+		"/home/elton/works/libgeral/salvaamb.prg",
+		"/home/elton/works/cipec/apagf.prg",
+		"/home/elton/works/cipec/volumes_exportacao.prg",
+		"/home/elton/works/cipec/coteti.prg",
+		"/home/elton/works/cipec/clafis.prg",
+		"/home/elton/works/cipec/sped.prg",
+		"/home/elton/works/libboleto/oremessa.prg",
+		"/home/elton/works/cipec/outras.prg",
+		"/home/elton/works/cipec/qg_embalagem.prg",
+		"/home/elton/works/cipec/panf.prg",
+		"/home/elton/works/cipec/compra.prg",
+		"/home/elton/works/cipec/compra2.prg",
+		"/home/elton/works/cipec/apresent.prg",
+		"/home/elton/works/cipec/acoes.prg",
+		"/home/elton/works/cipec/absenteismo.prg",
+		"/home/elton/works/cipec/amostras.prg",
+		"/home/elton/works/cipec/concli.prg",
+		"/home/elton/works/libgeral/getvec.prg",
+		"/home/elton/works/cipec/visita.prg",
+		"/home/elton/works/cipec/qg/qg_recebe.prg",
+		"/home/elton/works/cipec/cota_22.prg",
+		"/home/elton/works/cipec/qg1.prg",
+		"/home/elton/works/cipec/qg_recebe.prg",
+		"/home/elton/works/cipec/acerta_custo.prg",
+		"/home/elton/works/cipec/gprolan.prg",
+		"/home/elton/works/cipec/forne.prg",
+		"/home/elton/works/cipec/repr.prg",
+		"/home/elton/works/cipec/t.prg",
+		"/home/elton/works/cipec/altera_base.prg",
+		"/home/elton/works/cipec/cte.prg",
+		"/home/elton/works/cipec/produ.prg",
+		"/home/elton/works/cipec/ativo.prg",
+		"/home/elton/works/cipec/contab_apoio.prg",
+		"/home/elton/works/cipec/museu.prg"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+			"*.prg",
+			"",
+			"*.prg",
+			",\\t",
+			"*.prg",
+			"geracata.prg",
+			"*.prg",
+			"**/*.prg",
+			"",
+			"*.prg",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"cliente->",
+			"cCnpj",
+			"cnpj",
+			"consulta ao serasa",
+			"serasa.cipec.",
+			"lPreencherAuto",
+			"automatico",
+			"sera",
+			"difal",
+			"ctrl_u",
+			"TelaInc",
+			"cobs",
+			"cOficina",
+			"CTRL_M",
+			"ctlr_m",
+			"cltr_m",
+			"tem certeza",
+			"nBrOrdem",
+			"TAcessoU := \"00918",
+			"tacessou.*918",
+			"cautoriz_sim",
+			"autoriz_obs",
+			"lcomall",
+			"browsepadrao",
+			"browse",
+			"autoriz_usu",
+			"browse_padrao",
+			"browse",
+			"lforcarsair",
+			"1234",
+			"senhas",
+			"cSenhas",
+			"cFiltroTPeca ",
+			"cTipoPeca",
+			"Verifica_Desenhos_Para_Autorizar",
+			"desenh",
+			"csqlwhere",
+			"altd",
+			"cFiltro",
+			"autorizador",
+			"_sec",
+			"_Sec",
+			"pri",
+			"simnao",
+			"cAutoriz_Pri",
+			"sec",
+			"funci",
+			"avetor",
+			"cautor",
+			"PecasDesF->Autoriz_usu",
+			"autoriz_sim",
+			"k_F10",
+			"INCLUIR\\  ",
+			"incluir",
+			"local.*xTela",
+			"xtela\\ ",
+			"xtela",
+			"vetor",
+			"pecas->instrucao_receb",
+			"instrucao_recebe",
+			"pecas.instrucao_recebe",
+			"pecas->instrucao_recebe",
+			"cTela",
+			"Assinatura_Eletronica_Desenhos",
+			"cAlteracoes1",
+			"get.*memo",
+			"get.*memoedit",
+			"memoedit",
+			"WCerTT1",
+			"inspecao\\(",
+			"->",
+			"Tabela Principal",
+			"old_ins",
+			"Nome_Funcao",
+			"repli",
+			"176",
+			"tpeca",
+			"aMarcas",
+			"arq_",
+			"arq_peca",
+			"arq_pecas",
+			"Gera_Cat_Ideia_Prod",
+			"catideia",
+			"catpecas",
+			"scania",
+			"scan",
+			"scania",
+			"outras local",
+			"relatorio pecas setor embala",
+			"barra",
+			"barra_",
+			"isreparo",
+			"Gravar_Log_Reparos",
+			"mae\\(\\)",
+			"PecaMaeCO",
+			"mae",
+			"log_reparo",
+			"natureza de operacao invalida",
+			"RestScreen",
+			"isreparo",
+			"TelaF9",
+			"nrow",
+			"barra",
+			"k_f2",
+			"repr1",
+			"crepr",
+			"WRRep",
+			"cRepresentante",
+			"WRRep",
+			"BuscaRepr\\(",
+			"buscarepr",
+			"busca_vetor",
+			"barra_",
+			"busca_vetor",
+			"Vetor_",
+			"vetor",
+			"ordem",
+			"buscarepr",
+			"ref",
+			"k_f3",
+			"k_f11",
+			"dispo",
+			"k_f3",
+			"lDesligaPrio",
+			"amare",
+			"vetor\\[nRow,18\\]",
+			"vetor[nRow,18]",
+			"prio"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"inspe",
+			"Inspecao",
+			"maeplog",
+			"Log_Reparos",
+			"pecasdes->peca",
+			"aCorpo",
+			"pecas",
+			"Manutencao_Pecas_Lancamentos_Promocoes",
+			"\\n",
+			"\"216\"",
+			"SepaTra",
+			"//#include \"connect.prg\"",
+			"Conectar_Banco()",
+			"//RDDSETDEFAULT(\"SQLRDD\")",
+			"lJaFezLoginBanco",
+			"cTipoCaixaPapelao",
+			"cotap",
+			"IsPendencias_em_Aberto_Itens",
+			"CallBox",
+			"Grava_Peca_Data_Alteracao",
+			"a2007",
+			"Cadastro_Contatos_Eventos",
+			"VerFal",
+			"IPI",
+			"ICMS",
+			"l",
+			"observacoes",
+			"Controle_Observacoes",
+			"xRetorno",
+			"pecas",
+			"Controle_Custo_Medio",
+			"pecas",
+			"Controle_Pecas_Lancamentos",
+			"lSomentePorcentagemDeterminada",
+			"run\\(",
+			"ClienteSerasa",
+			"Cliente_Serasa",
+			"Assinatura_Eletronica_Desenhos",
+			"PecasDesF",
+			"Autorizar_Desenho()",
+			"pecasdesf.autoriz_simnao",
+			"PecasDesF",
+			"Manutencao_Desenhos_Alteracoes",
+			"PecasDes",
+			"Controle_Desenhos",
+			"pecas",
+			"Manutencao_Desenhos",
+			"pecas",
+			"ManDesenhos",
+			"lGerenteFinanceiro",
+			"!lGerenteFinanceiro",
+			"SET FILTER TO !empty(repr->codigo_r) .and. REPR->",
+			"SET FILTER TO !empty(repr->codigo_r) .and. REPR->SAIDA",
+			"\"240\"",
+			"Analise",
+			"EquipaOcor",
+			"EquipaOcorr",
+			"PsQl(@cSql",
+			"",
+			"TranLimpo",
+			"funci->(testa_padrao(\\1,2,,\"empty(funci->demiss)\"))",
+			"funci->(testa_padrao($(1),2,,\"empty(funci->demiss)\"))",
+			"\\+NomeEmpresa(cEmpresa,.t.,.t.)\\+",
+			"\\[nContNoturno",
+			"[nContNoturno",
+			"[ContNoturno",
+			"\\n",
+			"\\r",
+			"\\n",
+			"\\r",
+			"PECAS",
+			"Verifica_Observacoes_Pecas",
+			"cSepa()",
+			"'º'",
+			"\" º \"",
+			"nPub_Email_Porta",
+			"cPub_Email_Server,cPub_Email_Porta",
+			"Imprimir_Ordem_Producao_Pag_1",
+			"Imprimir_Ordem_Producao_Pag",
+			"Imprimir_Ordem_Producao_Pag_2",
+			"Imprimir_Ordem_Producao(",
+			"Imprimir_Ordem_Producao",
+			",;\\n",
+			"cPub_Email_Server",
+			"cPub_Email_Senha",
+			"cPub_Email_Login",
+			"lPub_NFE_ImprimirBoleto",
+			"lPub_NFE_ViaSocket",
+			"and.;\\n",
+			"Comparar_Valor_Nota_Boleto(",
+			",;\\n",
+			",\\n",
+			",\\T",
+			",\\r",
+			",\\t",
+			"lClienteDifal",
+			",",
+			"Tocar_Som",
+			"// run(\"/usr/bin/esdplay -s \" + falar + \" \" +  WSom)\\nToca_Som(wSom)",
+			"inventario",
+			",\\n",
+			"Consulta_Reparos_NTI",
+			"nrnti",
+			"lCarroDisponivel",
+			"'+;\\n'|",
+			"\\|'+;\\n",
+			"\\|'+;\\r\\n",
+			"\\|'+;\\R",
+			"\\|'+;\\r",
+			"\\|'+;\\T",
+			"Troca_Situacao_Tributaria_IPI",
+			"Troca_Situacao_Tributaria_Icms",
+			"apuimpostos",
+			"apuimpostosf",
+			"apuimpostos.v_icms",
+			"apuimpostos.v_ipi",
+			"apuimpostos.v_pis",
+			"icms_vicms",
+			"ipi_vipi",
+			"pis_vpis",
+			"view_xmlnfe_produtos",
+			"//",
+			"nota->desc",
+			"\\,;\\n",
+			"\\,;\\r",
+			", \\n",
+			", \\r\\n",
+			", \\R"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "core.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13848,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"rulers":
+							[
+								-0.1,
+								0.2
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SQLExec":
+	{
+		"height": 224.0
+	},
+	"output.clipboard_manager":
+	{
+		"height": 94.0
+	},
+	"output.exec":
+	{
+		"height": 94.0
+	},
+	"output.find_results":
+	{
+		"height": 495.0
+	},
+	"pinned_build_system": "Packages/harbour/Harbour.sublime-build",
+	"project": "monitor_cnc.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"testp",
+				"cipec/testpec.prg"
+			],
+			[
+				"clien",
+				"cipec/cliente.prg"
+			],
+			[
+				"digi",
+				"cipec/digicipec.prg"
+			],
+			[
+				"testpec",
+				"cipec/testpec.prg"
+			],
+			[
+				"apre",
+				"cipec/apresent.prg"
+			],
+			[
+				"pesqp",
+				"libgeral/pesqpadrao.prg"
+			],
+			[
+				"pesqpa",
+				"libgeral/pesqpadrao.prg"
+			],
+			[
+				"apres",
+				"cipec/apresent.prg"
+			],
+			[
+				"dese",
+				"cipec/desenho.prg"
+			],
+			[
+				"produ.prg",
+				"cipec/produ.prg"
+			],
+			[
+				"produg",
+				"cipec/produg.prg"
+			],
+			[
+				"conpeca",
+				"cipec/conpeca.prg"
+			],
+			[
+				"mont",
+				"cipec/mont.prg"
+			],
+			[
+				"gprolan.prg",
+				"cipec/gprolan.prg"
+			],
+			[
+				"cons",
+				"cipec/consite.prg"
+			],
+			[
+				"testa",
+				"cipec/testapecageral.prg"
+			],
+			[
+				"pecas",
+				"cipec/pecas.prg"
+			],
+			[
+				"cprod",
+				"cipec/cprod.prg"
+			],
+			[
+				"out",
+				"cipec/outest.prg"
+			],
+			[
+				"mont.prg",
+				"cipec/mont.prg"
+			],
+			[
+				"mae1",
+				"cipec/mae1.prg"
+			],
+			[
+				"estocipec.xbp",
+				"cipec/estocipec.xbp"
+			],
+			[
+				"mae",
+				"cipec/mae.prg"
+			],
+			[
+				"class",
+				"cipec/classif.prg"
+			],
+			[
+				"test",
+				"cipec/testapecageral.prg"
+			],
+			[
+				"testep",
+				"cipec/testpec.prg"
+			],
+			[
+				"vemba",
+				"cipec/vemba.prg"
+			],
+			[
+				"baicom",
+				"cipec/baicom.prg"
+			],
+			[
+				"vemba.",
+				"cipec/vemba.prg"
+			],
+			[
+				"compra",
+				"cipec/compra.prg"
+			],
+			[
+				"compra1",
+				"cipec/compra1.prg"
+			],
+			[
+				"nota",
+				"cipec/nota1.prg"
+			],
+			[
+				"nfe",
+				"cipec/nfe.prg"
+			],
+			[
+				"pesqfor",
+				"cipec/pesqforne.prg"
+			],
+			[
+				"obolo",
+				"libboleto/oboleto.prg"
+			],
+			[
+				"ccfo",
+				"cipec/ccfor.prg"
+			],
+			[
+				"outras",
+				"cipec/outras.prg"
+			],
+			[
+				"custo",
+				"cipec/custo.prg"
+			],
+			[
+				"pesq",
+				"cipec/pesq.prg"
+			],
+			[
+				"requi",
+				"cipec/requi.prg"
+			],
+			[
+				"cpeca1",
+				"cipec/conpeca1.prg"
+			],
+			[
+				"acerta",
+				"cipec/acerta_custo.prg"
+			],
+			[
+				"ferrament",
+				"cipec/ferramentaria.prg"
+			],
+			[
+				"cano",
+				"cipec/canota.prg"
+			],
+			[
+				"gara",
+				"cipec/gara.prg"
+			],
+			[
+				"oboleto",
+				"libboleto/oboleto.prg"
+			],
+			[
+				"produg.",
+				"cipec/produg.prg"
+			],
+			[
+				"nota1.prg",
+				"cipec/nota1.prg"
+			],
+			[
+				"classif",
+				"cipec/classif.prg"
+			],
+			[
+				"classi",
+				"cipec/classif.prg"
+			],
+			[
+				"enota1",
+				"cipec/enota1.prg"
+			],
+			[
+				"emba",
+				"cipec/emba.prg"
+			],
+			[
+				"ferramen",
+				"cipec/ferramentaria.prg"
+			],
+			[
+				"",
+				"Find Results"
+			],
+			[
+				"classif.prg",
+				"cipec/classif.prg"
+			],
+			[
+				"enota1.prg",
+				"cipec/enota1.prg"
+			],
+			[
+				"nota1",
+				"cipec/nota1.prg"
+			],
+			[
+				"geracata",
+				"cipec/geracata.prg"
+			],
+			[
+				"consite",
+				"cipec/consite.prg"
+			],
+			[
+				"digici",
+				"cipec/digicipec.prg"
+			],
+			[
+				"gera",
+				"cipec/geracata.prg"
+			],
+			[
+				"revisa",
+				"cipec/revisa.prg"
+			],
+			[
+				"iso",
+				"cipec/iso.prg"
+			],
+			[
+				"cliente",
+				"cipec/cliente.prg"
+			],
+			[
+				"emb",
+				"cipec/emba.prg"
+			],
+			[
+				"cli",
+				"cipec/cli_6.prg"
+			],
+			[
+				"sped.",
+				"cipec/sped.prg"
+			],
+			[
+				"nfe.",
+				"cipec/nfe.prg"
+			],
+			[
+				"dsq.prg",
+				"cipec/dsq.prg"
+			],
+			[
+				"orem",
+				"libboleto/oremessa.prg"
+			],
+			[
+				"panf",
+				"cipec/panf.prg"
+			],
+			[
+				"conpeca.prg",
+				"cipec/conpeca.prg"
+			],
+			[
+				"clafis",
+				"cipec/clafis.prg"
+			],
+			[
+				"teste",
+				"cipec/testpec.prg"
+			],
+			[
+				"client",
+				"cipec/cliente.prg"
+			],
+			[
+				"repr",
+				"cipec/repr.prg"
+			],
+			[
+				"forne",
+				"cipec/forne.prg"
+			],
+			[
+				"t.prg",
+				"cipec/t.prg"
+			],
+			[
+				"clasi",
+				"cipec/classif.prg"
+			],
+			[
+				"cota_22",
+				"cipec/cota_22.prg"
+			],
+			[
+				"produ",
+				"cipec/produ.prg"
+			],
+			[
+				"revi",
+				"cipec/revisa.prg"
+			],
+			[
+				"cep.prg",
+				"libgeral/cep.prg"
+			],
+			[
+				"cli_",
+				"cipec/cli_6.prg"
+			],
+			[
+				"volum",
+				"cipec/volumes_exportacao.prg"
+			],
+			[
+				"icms",
+				"cipec/icms.prg"
+			],
+			[
+				"error",
+				"cipec/errorsys.prg"
+			],
+			[
+				"funl",
+				"libgeral/funlib.prg"
+			],
+			[
+				"repi",
+				"cipec/repi.prg"
+			],
+			[
+				"qg_sem",
+				"cipec/qg_preco_sem_ipi.prg"
+			],
+			[
+				"conec",
+				"cipec/conectar.prg"
+			],
+			[
+				"gprolan.p",
+				"cipec/gprolan.prg"
+			],
+			[
+				"xml",
+				"cipec/xml.prg"
+			],
+			[
+				"conpe",
+				"cipec/conpeca.prg"
+			],
+			[
+				"consi",
+				"cipec/consite.prg"
+			],
+			[
+				"mont.p",
+				"cipec/mont.prg"
+			],
+			[
+				"preco_",
+				"cipec/qg_preco_sem_ipi.prg"
+			],
+			[
+				"qg_pre",
+				"cipec/qg_preco_sem_ipi"
+			],
+			[
+				"claf",
+				"cipec/clafis.prg"
+			],
+			[
+				"qg_prod",
+				"cipec/qg_produn.prg"
+			],
+			[
+				"qg_",
+				"cipec/qg_nfhome.prg"
+			],
+			[
+				"rama",
+				"cipec/ramal.prg"
+			],
+			[
+				"ramal",
+				"cipec/ramal.prg"
+			],
+			[
+				"gara.prg",
+				"cipec/gara.prg"
+			],
+			[
+				"nfe.prg",
+				"cipec/nfe.prg"
+			],
+			[
+				"testap",
+				"cipec/testapecageral.prg"
+			],
+			[
+				"volumes",
+				"cipec/volumes_exportacao.prg"
+			],
+			[
+				"frot",
+				"cipec/frota.prg"
+			],
+			[
+				"vendas",
+				"cipec/vendas.prg"
+			],
+			[
+				"muse",
+				"cipec/museu.prg"
+			],
+			[
+				"exp.prg",
+				"cipec/exp.prg"
+			],
+			[
+				"nti",
+				"cipec/nti.prg"
+			],
+			[
+				"nfe.p",
+				"cipec/nfe.prg"
+			],
+			[
+				"cota",
+				"cipec/cota.prg"
+			],
+			[
+				"connec",
+				"cipec/connect.prg"
+			],
+			[
+				"compra2.prg",
+				"cipec/compra2.prg"
+			],
+			[
+				"erdolar",
+				"cipec/verdolar.prg"
+			],
+			[
+				"frota_a",
+				"cipec/frota_apres.prg"
+			],
+			[
+				"frota",
+				"cipec/frota.prg"
+			],
+			[
+				"nti.prg",
+				"cipec/nti.prg"
+			],
+			[
+				"sqlr",
+				"cipec/sqlrdd.ini"
+			],
+			[
+				"mapareg",
+				"cipec/maparegven.prg"
+			],
+			[
+				"apagf",
+				"cipec/apagf.prg"
+			],
+			[
+				"cota5.prg",
+				"cipec/cota5.prg"
+			],
+			[
+				"coteti",
+				"cipec/coteti.prg"
+			],
+			[
+				"cla",
+				"cipec/claexp.prg"
+			],
+			[
+				"equipa",
+				"cipec/equipamentos.prg"
+			],
+			[
+				"altera",
+				"cipec/Alteracoes de SACPM 20170524.txt"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/works/cipec.py/cipec_py.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 214.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"PROMPT"
+			],
+			[
+				"run",
+				"RUN"
+			],
+			[
+				"get",
+				"HB_GT_NAME"
+			]
+		],
+		"width": 641.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 220.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
