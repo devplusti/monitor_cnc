@@ -4,5 +4,6 @@ Quando os sensores da máquina indicar que uma peça foi produzida, ele aumenta 
 O programa também gerencia abertura e encerramento de ordens de produção, operações de setup e solicita códigos de paradas.
 
 **Componentes:**
+- Raspberry PI
 - display LCD 2 linhas (I2C_LCD_driver)
 - Teclado Matricial Membrana (pad4pi)
